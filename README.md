@@ -5,7 +5,7 @@
 <h1  align="center">Discord JS</h1>
 
 <p  align="center">
-<img src="https://github.com/ShaAnder/address_book_react/assets/129494996/dd8e0d83-6509-42e0-80b5-3a1321ee1660" alt="project image" height="200px">
+<img src="" alt="project image" height="200px">
     
 <p align="center">
   <img src="https://img.shields.io/badge/version-0.0.1-orange.svg?cacheSeconds=2592000" />
